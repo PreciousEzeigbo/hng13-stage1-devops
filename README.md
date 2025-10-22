@@ -26,7 +26,7 @@
 
 ```bash
 # Download the script
-wget https://your-repo-url/deploy.sh
+wget https://github.com/PreciousEzeigbo/hng13-stage1-devops/deploy.sh
 
 # Make it runnable
 chmod +x deploy.sh
